@@ -2,7 +2,7 @@
 title: Mischpult Groß
 description: 
 published: true
-date: 2023-07-29T19:24:06.911Z
+date: 2023-07-29T19:29:02.668Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:58.966Z
@@ -42,5 +42,5 @@ der 40V knöpf ist dafür da, wenn du z.b ein Chor Mikrofon benutzt oder ein and
 ## Gain 
 
 Mit den Gain veränderst du die EIngangslautstärke des Signals. Also genau wie deim Fader? Nein! Der Fader macht die Endlautstärke während der Gain die Eingangsläutstärke des Signals verändert.
-![img_1924.jpeg](/img_1924.jpeg)
+![mischpult.jpeg](/mischpult.jpeg)
 
