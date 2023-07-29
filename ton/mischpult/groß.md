@@ -2,15 +2,15 @@
 title: Mischpult Groß
 description: 
 published: true
-date: 2023-07-29T18:46:26.741Z
+date: 2023-07-29T19:24:06.911Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-29T18:38:47.578Z
+dateCreated: 2023-07-29T19:22:58.966Z
 ---
 
 # Das Große Mischpult 
 
-Schritt für Schritt erklärung des Mischpults. TEST
+Schritt für Schritt erklärung des Mischpults.
 
 ## Kanäle
 
