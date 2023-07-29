@@ -2,7 +2,7 @@
 title: Mischpult Groß
 description: 
 published: true
-date: 2023-07-29T19:35:12.772Z
+date: 2023-07-29T19:35:55.235Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:58.966Z
