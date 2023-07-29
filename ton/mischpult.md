@@ -2,10 +2,10 @@
 title: Mischpult
 description: 
 published: true
-date: 2023-07-29T18:43:21.615Z
+date: 2023-07-29T19:23:01.325Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-29T18:38:18.847Z
+dateCreated: 2023-07-29T19:22:56.668Z
 ---
 
 # Mischpult

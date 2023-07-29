@@ -2,10 +2,10 @@
 title: lichtpult
 description: 
 published: true
-date: 2023-07-29T18:36:11.513Z
+date: 2023-07-29T19:22:55.899Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-29T18:36:09.671Z
+dateCreated: 2023-07-29T19:22:54.347Z
 ---
 
 # Das Lichtpult

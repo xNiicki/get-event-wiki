@@ -2,10 +2,10 @@
 title: DMX
 description: 
 published: true
-date: 2023-07-29T18:35:37.459Z
+date: 2023-07-29T19:22:53.573Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-29T18:35:35.655Z
+dateCreated: 2023-07-29T19:22:52.023Z
 ---
 
 # DMX
