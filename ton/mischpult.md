@@ -2,7 +2,7 @@
 title: Mischpult
 description: 
 published: true
-date: 2023-07-29T19:23:01.325Z
+date: 2023-08-16T11:58:39.771Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:56.668Z
@@ -15,7 +15,7 @@ Es gibt 2 arten von Mischpulte.
 1. Analogpult
 2. Digitalpult
 
-Bei Mischpulte hast du mehrere kleine inputs die man zu einen großen output mischen kannst. Dabei kannst du die Lautstärke den Gain und den Equlizer anpassen. 
+Bei Mischpulte hast du mehrere kleine inputs die man zu einen großen output mischen kannst. Dabei kannst du die Lautstärke, den Gain und den Equlizer anpassen. 
 Wie dass bei unseren verschidenen Mischpulte funktioniert könnt ihr in den Unterthemen nachschauen
 
 - [Großes Mischpult*Das was wir in der Regie stehen haben*](/ton/mischpult/groß)
