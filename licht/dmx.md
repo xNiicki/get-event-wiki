@@ -2,14 +2,14 @@
 title: DMX
 description: 
 published: true
-date: 2023-09-29T08:25:52.718Z
+date: 2023-09-29T08:26:49.880Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:52.023Z
 ---
 
 # DMX
-DMX ist ein Protokoll das in der Eventtechnik, Lichttechnik verwendet wird.
+DMX ist ein Protokoll das in der Eventtechnik, Lichttechnik verwendet wird um Lampen anzusteuern.
 Dieses steht für *D*igital *M*ultiple*x*.
 
 Um ein DMX-Kabel von einem XLR-Kabel zu unterscheiden muss man erstmal die Unterschiede verstehen. Vom Aufbau her unterscheiden sich die Kabel nicht (durch unsere günstigere und ältere Lichttechnik die wir verwenden wird hier vom 3-Poligen Kabel ausgegangen).
