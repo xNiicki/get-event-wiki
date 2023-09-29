@@ -2,14 +2,16 @@
 title: licht
 description: 
 published: true
-date: 2023-09-29T08:30:13.189Z
+date: 2023-09-29T08:33:05.270Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:44.769Z
 ---
 
 # Wilkommen bei Licht
-Hier findest du alles zu der Abteilung Licht
+Hier findest du alles zu der Abteilung Licht und der Lichttechnik.
+
+![licht-schaubild.png](/bilder/licht-schaubild.png)
 
 - [DMX*Digital Multiplex*](/licht/dmx)
 {.links-list}
