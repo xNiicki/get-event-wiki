@@ -1,8 +1,8 @@
 ---
-title: licht
+title: Licht
 description: 
 published: true
-date: 2023-09-30T06:43:56.622Z
+date: 2023-09-30T06:52:18.553Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:44.769Z
