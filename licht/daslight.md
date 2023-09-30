@@ -2,7 +2,7 @@
 title: daslight
 description: 
 published: true
-date: 2023-09-29T08:44:31.501Z
+date: 2023-09-30T06:45:46.520Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-29T08:44:31.501Z
@@ -23,5 +23,5 @@ Rechts sieht man 4 Kategorien:
 - Show
 
 In Patch, patcht man (also legt fest) die DMX adressen der Lichttechnik.
-In der 2 Kategorie Programm, programiert man verschiedene Szenen vor die dann später per Knopfdruck in Control ausgeführt werden können.
+In der 2 Kategorie Programm, programiert man verschiedene Szenen vor, die dann später per Knopfdruck in Control ausgeführt werden können.
 Die Kategorie Show ist zum programmieren eines Show Ablaufs, dabei werden Szenen nach einem bestimmten Zeitablauf ausgeführt.
