@@ -2,7 +2,7 @@
 title: daslight
 description: 
 published: true
-date: 2023-10-19T16:52:58.854Z
+date: 2023-10-19T16:58:58.062Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-29T08:44:31.501Z
@@ -16,20 +16,28 @@ Damit man Daslight benutzen kann muss man erstmal ein DMX Input (also dort wo wi
 Diese schließt man alle an und startet dann das Programm Daslight. Wenn dieses Gestartet ist sieht das wie folgt aus:
 ![daslight_startseite.png](/bilder/daslight_startseite.png)
 
-Rechts sieht man 4 Kategorien:
-- Patch
-- Edit
-- Live
-- Show
 
-In Patch, patcht man (also legt fest) die DMX adressen der Lichttechnik.
-In der 2 Kategorie Programm, programiert man verschiedene Szenen vor, die dann später per Knopfdruck in Control ausgeführt werden können.
-Die Kategorie Show ist zum programmieren eines Show Ablaufs, dabei werden Szenen nach einem bestimmten Zeitablauf ausgeführt.
+---
+
+
+
+
 - [Patch](/licht/Patch)
 {.links-list}
+> In der Kategorie Patch, patcht man (also legt fest) die DMX adressen der Lichttechnik.
+{.is-info}
+
 - [Edit](/licht/edit)
 {.links-list}
+> In der Kategorie Edit, programiert man verschiedene Szenen vor, die dann später per Knopfdruck in Live ausgeführt werden können.
+{.is-info}
+
 - [Live](/licht/live)
 {.links-list}
+> Die Kategorie Live ist zum ausführen der Szenen die vorher in Edit programmiert wurden sind.
+{.is-info}
+
 - [Show](/licht/show)
 {.links-list}
+> Die Kategorie Show ist zum programmieren eines Show Ablaufs, dabei werden Szenen nach einem bestimmten Zeitablauf ausgeführt.
+{.is-info}
