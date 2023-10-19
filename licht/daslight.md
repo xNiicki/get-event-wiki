@@ -2,7 +2,7 @@
 title: daslight
 description: 
 published: true
-date: 2023-10-19T10:14:34.239Z
+date: 2023-10-19T10:15:36.023Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-29T08:44:31.501Z
@@ -27,9 +27,9 @@ In der 2 Kategorie Programm, programiert man verschiedene Szenen vor, die dann s
 Die Kategorie Show ist zum programmieren eines Show Ablaufs, dabei werden Szenen nach einem bestimmten Zeitablauf ausgeführt.
 - [Patch](/licht/Patch)
 {.links-list}
-- [Programm](/licht/Lampen)
+- [Programm](/licht/Programm)
 {.links-list}
-- [Control](/licht/Lampen)
+- [Control](/licht/Control)
 {.links-list}
-- [Show](/licht/Lampen)
+- [Show](/licht/Show)
 {.links-list}
