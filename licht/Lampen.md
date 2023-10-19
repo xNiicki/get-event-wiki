@@ -1,8 +1,8 @@
 ---
-title: Patc
+title: Patch
 description: 
 published: true
-date: 2023-10-19T09:49:15.248Z
+date: 2023-10-19T09:55:58.532Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-19T09:49:15.248Z
