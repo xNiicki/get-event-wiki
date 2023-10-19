@@ -2,7 +2,7 @@
 title: Patch
 description: 
 published: true
-date: 2023-10-19T17:03:23.185Z
+date: 2023-10-19T17:03:56.703Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-19T17:03:23.185Z
@@ -16,4 +16,3 @@ Je komplizierter eine Lampe ist, desto mehr Channel werden genutzt.
 
 Die Anzahl der Channel die für eine Lampe genutzt werden, können noch extra gesetzt werden, aber (beachte!) je weniger Channel genutzt werden, des so weniger Funktionen können von der Lampe genutzt werden.
 Die Anzahl der genutzten Channels (länge der Balken)können auf der Lampe selbst, unter der Kategorie CH (Channel) eingestellt werden. 
-![img_2077.jpeg](/bilder/img_2077.jpeg)
