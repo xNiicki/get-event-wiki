@@ -1,8 +1,8 @@
 ---
-title: lampen
+title: Lampen
 description: 
 published: true
-date: 2023-10-19T16:38:17.082Z
+date: 2023-10-19T16:38:35.858Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-19T16:38:17.082Z
