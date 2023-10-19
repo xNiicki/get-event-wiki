@@ -2,7 +2,7 @@
 title: daslight
 description: 
 published: true
-date: 2023-10-19T16:58:58.062Z
+date: 2023-10-19T17:02:29.784Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-29T08:44:31.501Z
@@ -22,22 +22,22 @@ Diese schließt man alle an und startet dann das Programm Daslight. Wenn dieses 
 
 
 
-- [Patch](/licht/Patch)
+- [Patch](/licht/daslight/patch)
 {.links-list}
 > In der Kategorie Patch, patcht man (also legt fest) die DMX adressen der Lichttechnik.
 {.is-info}
 
-- [Edit](/licht/edit)
+- [Edit](/licht/daslight/edit)
 {.links-list}
 > In der Kategorie Edit, programiert man verschiedene Szenen vor, die dann später per Knopfdruck in Live ausgeführt werden können.
 {.is-info}
 
-- [Live](/licht/live)
+- [Live](/licht/daslight/live)
 {.links-list}
 > Die Kategorie Live ist zum ausführen der Szenen die vorher in Edit programmiert wurden sind.
 {.is-info}
 
-- [Show](/licht/show)
+- [Show](/licht/daslight/show)
 {.links-list}
 > Die Kategorie Show ist zum programmieren eines Show Ablaufs, dabei werden Szenen nach einem bestimmten Zeitablauf ausgeführt.
 {.is-info}
