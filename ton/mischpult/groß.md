@@ -2,7 +2,7 @@
 title: Mischpult Groß
 description: 
 published: true
-date: 2023-10-24T12:08:49.183Z
+date: 2023-10-24T12:09:57.189Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:58.966Z
@@ -37,7 +37,7 @@ Mit den EQ Lizer kann man die Höhen/Mitten/Tiefen einstellen. Hier haben wir f�
 
 ## 48V
 
-der 40V knöpf ist dafür da, wenn du z.b ein Chor Mikrofon benutzt oder ein anderes was eine höhere stromspannung braucht. 
+Der 48V knöpf ist dafür da, wenn du z.b ein Chor Mikrofon benutzt oder ein anderes was eine höhere stromspannung braucht. 
 
 ## Gain 
 
