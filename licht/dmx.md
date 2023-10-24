@@ -2,14 +2,14 @@
 title: DMX
 description: 
 published: true
-date: 2023-10-24T11:23:42.213Z
+date: 2023-10-24T11:24:01.665Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:52.023Z
 ---
 
 # DMX
-Alles über das DMX Protokroll
+Alles über das DMX Protokoll.
 ## DMX-Kabel
 DMX ist ein Protokoll das in der Eventtechnik, Lichttechnik verwendet wird um Lampen anzusteuern.
 Dieses steht für *D*igital *M*ultiple*x*.
