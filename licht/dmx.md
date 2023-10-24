@@ -2,13 +2,15 @@
 title: DMX
 description: 
 published: true
-date: 2023-09-29T08:26:49.880Z
+date: 2023-10-24T11:23:42.213Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:52.023Z
 ---
 
 # DMX
+Alles über das DMX Protokroll
+## DMX-Kabel
 DMX ist ein Protokoll das in der Eventtechnik, Lichttechnik verwendet wird um Lampen anzusteuern.
 Dieses steht für *D*igital *M*ultiple*x*.
 
@@ -22,3 +24,7 @@ Dabei gibt es 3 Leitungen:
 Der einzige Unterschied der zwischen einem DMX-Kabel und einem XLR-Kabel herscht ist der Wiederstand der 3 Leitungen. Sollte man diese Kabel-Arten vermischen kann es passieren, dass das Mikrofon oder die jeweilige Lichtechnik nicht Funktioniert. Um das zu vermeiden und ggf. Fehlersuche zu ermöglichen, kann man am Kabel anhand der Beschriftung den gegebenen Wiederstand ablesen.
 ![beschriftung_dmx_kabel.png](/bilder/beschriftung_dmx_kabel.png)
 (Orange: Kabelart; Rot: Wiederstand)
+
+## DMX-Universum
+Ein **DMX-Universum** besteht aus **512 Channels**. Die Anzahl der Channels in einem DMX-Universum ist auf 512 begrenzt und muss 512 besitzen um ein DMX-Universum zu besitzen. Dabei ist die **Anzahl an DMX-Universen nicht begrenzt**, sondern nur von der Leistung des jeweiligen Rechners.
+
