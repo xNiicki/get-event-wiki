@@ -2,7 +2,7 @@
 title: Lampen
 description: 
 published: true
-date: 2023-10-24T06:54:15.840Z
+date: 2023-10-24T07:12:53.197Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-19T16:38:17.082Z
@@ -15,7 +15,7 @@ Alles auf dieser seite ist auf unsere Lampen bezogen!
 
 - UV-Lampen
 UV-Lampen haben nur An und Aus
-# Lampen Programmieren
+# Lampen zum Programmieren
 Für Daslight oder das Lichtpult muss bei der Lampe muss der DMX Mode eingestellt sein.
 ![img_2236.jpeg](/img_2236.jpeg)
 - Mode
