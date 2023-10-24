@@ -2,7 +2,7 @@
 title: Mischpult Groß
 description: 
 published: true
-date: 2023-07-29T19:36:50.309Z
+date: 2023-10-24T12:08:49.183Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:58.966Z
@@ -31,11 +31,11 @@ Die Fader sind Analog. Das heißt dass keine Motoren dadrunter verbaut sind. Es 
 Die Aux knöpfe bestimmen, wie viel Signal durch die Aux Ausgänge geht. Hier gilt auch wieder die Regel je höher der Regler aufgedreht ist, desto mehr signal geht durch. 
 
 
-## Equlizer 
+## Equalizer 
 
 Mit den EQ Lizer kann man die Höhen/Mitten/Tiefen einstellen. Hier haben wir für jede eistellung einen Regler. wenn der Regler in der Mitte ist, ist es Neutral. wenn der Regler nach links gedreht ist sind es z.b. weniger Tiefen. Wenn der regler aber nach Rechts gedreht ist, haben wir mehr Tiefen als Normal.
 
-## 40V
+## 48V
 
 der 40V knöpf ist dafür da, wenn du z.b ein Chor Mikrofon benutzt oder ein anderes was eine höhere stromspannung braucht. 
 
