@@ -2,7 +2,7 @@
 title: Patch
 description: 
 published: true
-date: 2023-10-20T07:21:20.376Z
+date: 2023-10-24T11:37:44.096Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-19T17:03:23.185Z
@@ -17,3 +17,4 @@ Je komplizierter eine Lampe ist, desto mehr Channel werden genutzt.
 Die Anzahl der Channel die für eine Lampe genutzt werden, können noch extra gesetzt werden, aber (beachte!) je weniger Channel genutzt werden, des so weniger Funktionen können von der Lampe genutzt werden.
 Die Anzahl der genutzten Channels (länge der Balken) können auf der Lampe selbst, unter der Kategorie CH (Channel) eingestellt werden. 
 ![daslight_patchen.png](/bilder/daslight_patchen.png)
+
