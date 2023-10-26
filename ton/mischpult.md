@@ -2,7 +2,7 @@
 title: Mischpult
 description: 
 published: true
-date: 2023-10-20T05:44:30.929Z
+date: 2023-10-26T06:58:53.261Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:56.668Z
@@ -19,6 +19,6 @@ Bei Mischpulte hast du mehrere kleine inputs die man zu einen großen output mis
 Wie dass bei unseren verschidenen Mischpulte funktioniert könnt ihr in den Unterthemen nachschauen
 
 - [Großes Mischpult*Das was wir in der Regie stehen haben*](/ton/mischpult/groß)
-- [Behringer X32 Compact*unser neues pult was wir hoffentlich bald bekommen*](/ton/mischpult/x32-compact)
+- [Behringer X32 Compact*unser neues digitalpult*](/ton/mischpult/x32-compact)
 - [Yamaha QL11*unser altes digitalpult*](ton/mischpult/yamaha-ql11)
 {.links-list}
