@@ -2,7 +2,7 @@
 title: DMX
 description: 
 published: true
-date: 2023-10-27T20:04:11.161Z
+date: 2023-10-27T20:05:57.313Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:52.023Z
@@ -26,5 +26,5 @@ Der einzige Unterschied der zwischen einem DMX-Kabel und einem XLR-Kabel herscht
 (Orange: Kabelart; Rot: Wiederstand)
 
 ## DMX-Universum
-Ein **DMX-Universum** besteht aus **512 Channels**. Die Anzahl der Channels in einem DMX-Universum muss 512 betragen, da sonst der DMX-Standard nicht eingehalten wird. Dabei ist die Anzahl an DMX-Universen **theoretisch** nicht begrenzt, sondern nur von der Leistung des jeweiligen Rechners.
+Ein **DMX-Universum** besteht aus **512 Channels**. Die Anzahl der Channels in einem DMX-Universum muss 512 betragen, da sonst der DMX-Standard nicht eingehalten wird. Dabei ist die Anzahl an DMX-Universen **theoretisch** nicht begrenzt, sondern nur durch die Leistung des jeweiligen Rechners.
 
