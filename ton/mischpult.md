@@ -2,23 +2,25 @@
 title: Mischpult
 description: 
 published: true
-date: 2023-10-26T06:58:53.261Z
+date: 2023-10-27T20:12:00.727Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:56.668Z
 ---
 
 # Mischpult
+Ein Mischpult mixt viele verschiedene Signale zu einem Signal. Dabei können die Signale durch die verschiedenen Abschnitte durch die das Signal im Mischpult verläuft, zu dem eigenem Nutzen verändert werden. 
 
-Es gibt 2 arten von Mischpulte. 
+Dabei gibt es grundsätzlich zwei Arten von Mischpulten:
 
 1. Analogpult
-2. Digitalpult
-
-Bei Mischpulte hast du mehrere kleine inputs die man zu einen großen output mischen kannst. Dabei kannst du die Lautstärke, den Gain und den Equlizer anpassen. 
-Wie dass bei unseren verschidenen Mischpulte funktioniert könnt ihr in den Unterthemen nachschauen
-
 - [Großes Mischpult*Das was wir in der Regie stehen haben*](/ton/mischpult/groß)
+{.links-list}
+2. Digitalpult
 - [Behringer X32 Compact*unser neues digitalpult*](/ton/mischpult/x32-compact)
+{.links-list}
 - [Yamaha QL11*unser altes digitalpult*](ton/mischpult/yamaha-ql11)
 {.links-list}
+
+
+
