@@ -2,7 +2,7 @@
 title: Aula
 description: 
 published: true
-date: 2023-10-28T14:48:14.659Z
+date: 2023-10-28T14:49:45.541Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T09:36:36.068Z
@@ -20,8 +20,6 @@ dateCreated: 2023-10-20T09:36:36.068Z
 - [Lichttechnik*Aufbau der Lichttechnik der Aula*](/licht/lichttechnik_aula)
 {.links-list}
 - [Regie*Aufbau der Regie der Aula*](/aula/regie)
-{.links-list}
-- [Tonraum*Aufbau des Tonraums der Aula*](/aula/tonraum)
 {.links-list}
 - [Tonraum*Aufbau des Tonraums der Aula*](/aula/tonraum)
 {.links-list}
