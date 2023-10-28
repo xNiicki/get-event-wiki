@@ -2,7 +2,7 @@
 title: Aula
 description: 
 published: true
-date: 2023-10-20T09:43:59.020Z
+date: 2023-10-28T14:48:14.659Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T09:36:36.068Z
