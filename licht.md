@@ -2,7 +2,7 @@
 title: Licht
 description: 
 published: true
-date: 2023-10-19T16:35:38.893Z
+date: 2023-10-30T09:49:58.704Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:44.769Z
