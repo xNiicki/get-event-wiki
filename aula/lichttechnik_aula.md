@@ -2,7 +2,7 @@
 title: Lichttechnik
 description: 
 published: true
-date: 2023-11-09T11:37:05.039Z
+date: 2023-11-09T11:41:04.400Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-09T11:29:43.372Z
