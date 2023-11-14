@@ -2,7 +2,7 @@
 title: Mischpult Groß
 description: 
 published: true
-date: 2023-10-24T12:09:57.189Z
+date: 2023-11-14T16:27:27.467Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:58.966Z
@@ -23,7 +23,7 @@ Außerdem hat das Pult Stereo Out 4 Buse und 4 XLR out/2 Klinke Out Ausgänge
 
 ## Fader
 
-Die Fader sind Analog. Das heißt dass keine Motoren dadrunter verbaut sind. Es gibt zu jeden Eingang 1 Fader. Dje Fader bestimmen wie viel Signal durchgehen soll. Je höher der Fader ist, desto Lauter ist das Signal
+Die Fader sind Analog. Das heißt dass keine Motoren dadrunter verbaut sind. Es gibt zu jeden Eingang 1 Fader. Dje Fader bestimmen wie viel Signal durchgehen soll. Je höher der Fader ist, desto Lauter ist die Endlautstärke.
 
 
 ## Aux 
@@ -41,6 +41,6 @@ Der 48V knöpf ist dafür da, wenn du z.b ein Chor Mikrofon benutzt oder ein and
 
 ## Gain 
 
-Mit den Gain veränderst du die EIngangslautstärke des Signals. Also genau wie deim Fader? Nein! Der Fader macht die Endlautstärke während der Gain die Eingangsläutstärke des Signals verändert.
+Mit den Gain veränderst du die Eingangslautstärke des Signals.
 ![mischpult.jpeg](/bilder/mischpult.jpeg)
 
