@@ -2,7 +2,7 @@
 title: Mischpult Groß
 description: 
 published: true
-date: 2023-11-14T16:27:27.467Z
+date: 2023-11-17T07:42:34.776Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:58.966Z
@@ -42,5 +42,9 @@ Der 48V knöpf ist dafür da, wenn du z.b ein Chor Mikrofon benutzt oder ein and
 ## Gain 
 
 Mit den Gain veränderst du die Eingangslautstärke des Signals.
+
+## Pan
+
+Bei einer stereo anlage ansteuern wieviel sygnal durch die linke/die rechte box geht.
 ![mischpult.jpeg](/bilder/mischpult.jpeg)
 
