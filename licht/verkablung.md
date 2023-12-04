@@ -2,7 +2,7 @@
 title: Verkablung von Lichttechnik
 description: 
 published: true
-date: 2023-12-04T09:45:07.706Z
+date: 2023-12-04T09:45:35.528Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T07:45:53.730Z
