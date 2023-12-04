@@ -2,11 +2,13 @@
 title: Behringer X32 Compact
 description: 
 published: true
-date: 2023-12-04T10:02:44.419Z
+date: 2023-12-04T10:08:04.428Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T10:02:44.419Z
 ---
 
-# Header
-Your content here
+# Behringer X32 Compact
+## Besonderheiten
+Das Mischpult kann über eine app angesteuert werden.
+Mit dem Mischpult können effekte auf die Chanels gelegt werden wie Hall oder Echo.
