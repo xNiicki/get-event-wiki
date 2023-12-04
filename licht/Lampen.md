@@ -2,7 +2,7 @@
 title: Lampen
 description: 
 published: true
-date: 2023-10-24T11:33:06.232Z
+date: 2023-12-04T09:51:23.257Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-19T16:38:17.082Z
@@ -32,7 +32,7 @@ Um eine Lampe in eine DMX-Universum einzuprogrammieren muss diese erst programmi
 ### Programmieren des Dimmerpacks
 
 ### Allgemeines Programmieren einer Lampe
-![img_2236.jpeg](/img_2236.jpeg)
+![bedienungsfeld.jpeg](/bedienungsfeld.jpeg)
 - Mode -> Modus wechseln
 - Enter -> Modus auswählen und zahlen zum verändern (Up/Down) auswählen.
 - Up -> Hoch wählen
