@@ -2,7 +2,7 @@
 title: Edit
 description: 
 published: true
-date: 2023-10-24T14:01:42.720Z
+date: 2023-12-04T09:48:16.150Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-24T13:51:24.085Z
@@ -13,6 +13,6 @@ Bei Edit werden gruppen erstelt in einer gruppe können szenen erstelt werden ,j
 Um eine szenen zu Programmieren draufklikken und eine lampe auswählen die regler anpassen je nach belieben.
 Was die regler machen⬇️
 - KLS
-![img_2240.jpeg](/img_2240.jpeg)
+![edit_kls.jpeg](/edit_kls.jpeg)
 - Movigheads
-![img_2239.jpeg](/img_2239.jpeg)
+![edit_movinghead.jpeg](/edit_movinghead.jpeg)
