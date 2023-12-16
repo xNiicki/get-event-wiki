@@ -2,15 +2,16 @@
 title: Daslight steuern
 description: 
 published: true
-date: 2023-12-16T14:19:14.427Z
+date: 2023-12-16T14:25:26.635Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-16T14:19:14.427Z
 ---
 
 # Daslight steuern
-![dmx_steuerung2.jpeg](/licht/dmx_steuerung1.jpeg)
-
-![dmx_steuerung1.jpeg](/licht/dmx_steuerung2.jpeg)
-
+Um mit dem analogen pult in Daslight was zu steuern muss in den einstelungen bei geräte beim port 2 eingang eingesteltsein.
+![dmx_steuerung2.jpeg](/licht/dmx_steuerung2.jpeg)
+Bei einen fader oder eine sehne eine rechtsklich und DMX Mapping auswählen .
 ![dmx_steuerung3.jpeg](/licht/dmx_steuerung3.jpeg)
+Beim feld was auftaucht den richtigen kanal auswählen und die gewolzen einstelungen trefen.
+![dmx_steuerung1.jpeg](/licht/dmx_steuerung1.jpeg)
