@@ -2,7 +2,7 @@
 title: Ton
 description: 
 published: true
-date: 2024-01-15T17:55:08.297Z
+date: 2024-01-15T18:19:09.519Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:49.650Z
@@ -15,5 +15,5 @@ Hier findest du alles über die Abteilung Ton
 {.links-list}
 - [DI Box*Erklärung der DI Box*](/ton/DI-Box)
 {.links-list}
-- [Mikrofone*Tauchspulenmikrofone und Kondensatormikrofone*](/ton/Mikrofone)
+- [Mikrofone*Tauchspulenmikrofone, Kondensatormikrofone und Richtcharakteristiken*](/ton/Mikrofone)
 {.links-list}
