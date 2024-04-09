@@ -2,7 +2,7 @@
 title: Licht
 description: 
 published: true
-date: 2024-04-09T10:50:17.925Z
+date: 2024-04-09T10:55:28.387Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:44.769Z
@@ -22,4 +22,6 @@ Hier findest du alles zu der Abteilung Licht und der Lichttechnik.
 - [Daslight*DMX lighting software für den PC*](/licht/daslight)
 {.links-list}
 - [Lampen*Movingheads,KLS und co.*](/licht/Lampen)
+{.links-list}
+- [Fehlerbehebungs Hilfe](/licht/Hilfe)
 {.links-list}
