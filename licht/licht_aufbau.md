@@ -2,7 +2,7 @@
 title: Licht wie ist es aufgebaut
 description: 
 published: true
-date: 2024-04-09T06:54:45.794Z
+date: 2024-04-09T10:47:01.925Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-09T06:54:45.794Z
@@ -24,5 +24,7 @@ Die Sonne sendet Ultraviolett, Infrarot und sichtbares licht aus die wellen werd
 Alle wellen zusammen ergeben weißes licht.
 ### Additive Farbmischung
 Wellen werden hinzugefügt und ergeben zusammen eine farbe
+![additive_farbmischung.png](/licht/additive_farbmischung.png)
 ### Subtraktiven Farbmischung
 Wellen werden herausgefiltert so das nur die farbwellen der gewünschten farbe übrig bleibt.
+![subtraktive_farbmischung.png](/licht/subtraktive_farbmischung.png)
