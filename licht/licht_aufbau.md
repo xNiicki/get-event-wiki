@@ -2,7 +2,7 @@
 title: Licht Mischen und Aufbau
 description: 
 published: true
-date: 2024-04-11T09:03:02.107Z
+date: 2024-04-11T09:17:28.545Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-09T06:54:45.794Z
@@ -35,3 +35,9 @@ Weiß-Magenta+Cyan=Blau
 Weiß-Cyan+Gelb=Grün
 Weiß-Gelb+Magenta=Rot
 Weiß-Magenta+Cyan+Gelb=Nichts
+Magenta läst nur Rote und Blaue wellen durch.
+Cyan läst nur Blaue und Grüne wellen durch.
+Gelb läst nur Grüne und Rote wellen durch.
+Magenta und Cyan lassen beide Blaue wellen durch dadurch sehen wir Blau.
+Cyan und Gelb lassen beide Grüne wellen durch dadurch sehen wir Grün.
+Gelb und Magenta lassen beide Rote wellen durch dadurch sehen wir Rot.
