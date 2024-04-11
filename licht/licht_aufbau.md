@@ -1,8 +1,8 @@
 ---
-title: Licht wie ist es aufgebaut
+title: Licht Mischen und Aufbau
 description: 
 published: true
-date: 2024-04-11T08:59:41.708Z
+date: 2024-04-11T09:02:21.542Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-09T06:54:45.794Z
