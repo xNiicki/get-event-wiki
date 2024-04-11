@@ -2,7 +2,7 @@
 title: Licht
 description: 
 published: true
-date: 2024-04-09T10:57:26.595Z
+date: 2024-04-11T09:01:38.882Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:44.769Z
@@ -11,7 +11,7 @@ dateCreated: 2023-07-29T19:22:44.769Z
 # Wilkommen bei Licht
 Hier findest du alles zu der Abteilung Licht und der Lichttechnik.
 
-- [Licht*Wie ist es aufgebaut*](/licht/licht_aufbau)
+- [Licht*Mischen und Aufbau*](/licht/licht_aufbau)
 {.links-list}
 - [DMX*Digital Multiplex*](/licht/dmx)
 {.links-list}
