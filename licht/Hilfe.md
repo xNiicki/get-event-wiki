@@ -2,7 +2,7 @@
 title: Fehlerbehebungs Hilfe
 description: 
 published: true
-date: 2024-04-17T09:44:27.169Z
+date: 2024-04-17T09:49:25.505Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-09T10:57:11.359Z
@@ -17,3 +17,7 @@ Sind mit den knöpfen die richtigen DMX-channels ausgewählt und mit den fadern 
 ## Weiteres
 Sind alle sicherungen ausgeschaltet??
 Ist das Dimmerpack an?
+## Ansprechpersonen für hilfe
+Maxi
+Sönke
+Luis
