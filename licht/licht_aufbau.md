@@ -2,7 +2,7 @@
 title: Licht Mischen und Aufbau
 description: 
 published: true
-date: 2024-04-11T09:17:28.545Z
+date: 2024-04-18T09:09:40.540Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-09T06:54:45.794Z
@@ -16,6 +16,9 @@ Licht besteht aus wellen das sichtbare spektrum ist klein das ganze lichtspektru
 {.is-warning}
 
 ![lichtspektrum.jpeg](/licht/lichtspektrum.jpeg)
+
+> Die Lichtsrahlung ist in die sen artikel stark vereinfacht und deswegen mit Rot, Grün und blau dargestelt. 
+{.is-warning}
 
 ### Wie wir sehen.
 Die Sonne sendet Ultraviolett, Infrarot und sichtbares licht aus die wellen werden von den flächen gespiegelt und fallen ins auge wo die lichtwellen im gehirn zu einem bild umgewandelt werden.
@@ -34,10 +37,11 @@ Wellen werden herausgefiltert so das nur die farbwellen der gewünschten farbe �
 Weiß-Magenta+Cyan=Blau
 Weiß-Cyan+Gelb=Grün
 Weiß-Gelb+Magenta=Rot
-Weiß-Magenta+Cyan+Gelb=Nichts
+Weiß-Magenta+Cyan+Gelb=Keine Lichtwellen
 Magenta läst nur Rote und Blaue wellen durch.
 Cyan läst nur Blaue und Grüne wellen durch.
 Gelb läst nur Grüne und Rote wellen durch.
-Magenta und Cyan lassen beide Blaue wellen durch dadurch sehen wir Blau.
+**Bild beispiel**
+Wie im beispiel zu sehen läst magenta nur Rote und Blaue stralung durch und Cyan läst nur Blau und Grün durch dadurch sehen wir Blau weil blau von beiden durchgelassen wird.
 Cyan und Gelb lassen beide Grüne wellen durch dadurch sehen wir Grün.
 Gelb und Magenta lassen beide Rote wellen durch dadurch sehen wir Rot.
