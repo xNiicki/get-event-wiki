@@ -2,7 +2,7 @@
 title: Licht Mischen und Aufbau
 description: 
 published: true
-date: 2024-04-18T09:13:03.176Z
+date: 2024-04-18T09:14:06.959Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-09T06:54:45.794Z
@@ -42,6 +42,6 @@ Magenta läst nur Rote und Blaue wellen durch.
 Cyan läst nur Blaue und Grüne wellen durch.
 Gelb läst nur Grüne und Rote wellen durch.
 ![farbfolien_erklärung_leicht.jpg](/licht/farbfolien_erklärung_leicht.jpg)
-Wie im beispiel zu sehen läst magenta nur Rote und Blaue stralung durch und Cyan läst nur Blau und Grün durch dadurch sehen wir Blau weil blau von beiden durchgelassen wird.
+Wie im beispiel zu sehen läst magenta nur Rote und Blaue stralung durch und Cyan läst nur Blau und Grün durch dadurch wird rot abgehalten und wir sehen Blau weil blau von beiden durchgelassen wird.
 Cyan und Gelb lassen beide Grüne wellen durch dadurch sehen wir Grün.
 Gelb und Magenta lassen beide Rote wellen durch dadurch sehen wir Rot.
