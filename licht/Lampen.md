@@ -2,7 +2,7 @@
 title: Lampen
 description: 
 published: true
-date: 2023-12-04T09:51:23.257Z
+date: 2024-04-25T09:09:17.137Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-19T16:38:17.082Z
@@ -19,17 +19,6 @@ Um eine Lampe in eine DMX-Universum einzuprogrammieren muss diese erst programmi
 
 > Für Daslight oder das Lichtpult muss bei der Lampe der DMX Mode, sowie die Adresse eingestellt werden
 {.is-warning}
-
-### Programmieren der KLS 
-
-
-### Programmieren der Fluter (neu)
-
-### Programmieren der Fluter (alt)
-
-### Programmieren der Movingheads
-
-### Programmieren des Dimmerpacks
 
 ### Allgemeines Programmieren einer Lampe
 ![bedienungsfeld.jpeg](/bedienungsfeld.jpeg)
