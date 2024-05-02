@@ -2,7 +2,7 @@
 title: Fehlerbehebungs Hilfe
 description: 
 published: true
-date: 2024-04-17T09:49:25.505Z
+date: 2024-05-02T07:36:09.037Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-09T10:57:11.359Z
@@ -11,12 +11,12 @@ dateCreated: 2024-04-09T10:57:11.359Z
 # Schritt für schritt hilfe.
 ## Wenn Daslight genutzt wird.
 Ist das kabel vom Laptop zum DMX-Interface in beiden drinnen und das DMX-Interface in Daslight ausgewählt?
-Ist bei den lampen der dimm an(auf 255)?
 ## Wenn das Analogpult genutzt wird.
-Sind mit den knöpfen die richtigen DMX-channels ausgewählt und mit den fadern hoch geschoben.
+Sind mit den knöpfen die richtigen DMX-channels ausgewählt und mit den fadern hoch geschoben?
 ## Weiteres
 Sind alle sicherungen ausgeschaltet??
 Ist das Dimmerpack an?
+Ist bei den lampen der dimm an(auf 255)?
 ## Ansprechpersonen für hilfe
 Maxi
 Sönke
