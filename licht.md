@@ -2,7 +2,7 @@
 title: Licht
 description: 
 published: true
-date: 2024-04-11T09:01:38.882Z
+date: 2025-01-20T07:57:07.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:44.769Z
@@ -16,6 +16,7 @@ Hier findest du alles zu der Abteilung Licht und der Lichttechnik.
 - [DMX*Digital Multiplex*](/licht/dmx)
 {.links-list}
 - [Verkablung*Verkablung von Lichttechnik*](/licht/verkablung)
+- [Kabel und Verkablung*Verkabelung von Lichttechnik*](/licht/verkablung)
 {.links-list}
 - [Lichtpult*Allgemeine Erklärung des Lichtpultes*](/licht/lichtpult)
 {.links-list}
