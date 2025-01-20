@@ -2,7 +2,7 @@
 title: Licht Mischen und Aufbau
 description: 
 published: true
-date: 2025-01-20T08:10:00.724Z
+date: 2025-01-20T08:12:23.441Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-09T06:54:45.794Z
@@ -25,14 +25,14 @@ Die Sonne sendet Ultraviolett, Infrarot und sichtbares licht aus die wellen werd
 
 ## Licht mischen
 ### Additive Farbmischung
-Wellen werden hinzugefügt und ergeben zusammen eine farbe
+Wellen werden hinzugefügt und ergeben zusammen eine farbe, die wird z.b. bei Flutern genutzt.
 ![additive_farbmischung.png](/licht/additive_farbmischung.png)
 Rot+Blau=Magenta
 Blau+Grün=Cyan
 Grün+Rot=Gelb
 Rot+Blau+Grün=Weiß
 ### Subtraktiven Farbmischung
-Wellen werden herausgefiltert so das nur die farbwellen der gewünschten farbe übrig bleibt.
+Wellen werden herausgefiltert so das nur die farbwellen der gewünschten farbe übrig bleibt, die wird bei z.b. Halogenscheinwerfern genutzt.
 ![subtraktive_farbmischung.png](/licht/subtraktive_farbmischung.png)
 Weiß-Magenta+Cyan=Blau
 Weiß-Cyan+Gelb=Grün
