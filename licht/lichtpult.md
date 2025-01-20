@@ -2,7 +2,7 @@
 title: lichtpult
 description: 
 published: true
-date: 2025-01-20T08:03:47.107Z
+date: 2025-01-20T08:04:58.049Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:54.347Z
@@ -22,5 +22,3 @@ Es hilft den Technikern dabei, die Beleuchtung auf der Bühne genau so zu steuer
 # Unser Lichtpult
 ![lichtpult.jpeg](/lichtpult.jpeg)
 Mit dem analogen Mischpult können die fader und aus Daslight gesteuert werden.
-- [Daslight steuern*mit dem analogen pult*](/licht/lichtpult/user_lichtpult/Daslight_steuern)
-{.links-list}
