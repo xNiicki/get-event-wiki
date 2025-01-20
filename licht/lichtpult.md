@@ -2,7 +2,7 @@
 title: lichtpult
 description: 
 published: true
-date: 2023-12-04T09:36:12.142Z
+date: 2025-01-20T08:02:37.064Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:54.347Z
@@ -21,6 +21,4 @@ Insgesamt ist das Lichtpult ein wichtiger Bestandteil der Veranstaltungstechnik.
 Es hilft den Technikern dabei, die Beleuchtung auf der Bühne genau so zu steuern, dass die Show ein Erfolg wird und das Publikum begeistert.
 
 - [Unser Lichpult*Analog*](/licht/lichtpult/user_lichtpult)
-{.links-list}
-- [Arten von Lichpulte*digitale Lichtpulte und analoge Lichtpulte*](/licht/lichtpult/arten)
 {.links-list}
