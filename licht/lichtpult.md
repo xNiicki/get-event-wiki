@@ -2,7 +2,7 @@
 title: lichtpult
 description: 
 published: true
-date: 2025-01-20T08:02:37.064Z
+date: 2025-01-20T08:03:47.107Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:54.347Z
@@ -19,6 +19,8 @@ Es gibt viele verschiedene Funktionen, die man nutzen kann, wie zum Beispiel das
 
 Insgesamt ist das Lichtpult ein wichtiger Bestandteil der Veranstaltungstechnik. 
 Es hilft den Technikern dabei, die Beleuchtung auf der Bühne genau so zu steuern, dass die Show ein Erfolg wird und das Publikum begeistert.
-
-- [Unser Lichpult*Analog*](/licht/lichtpult/user_lichtpult)
+# Unser Lichtpult
+![lichtpult.jpeg](/lichtpult.jpeg)
+Mit dem analogen Mischpult können die fader und aus Daslight gesteuert werden.
+- [Daslight steuern*mit dem analogen pult*](/licht/lichtpult/user_lichtpult/Daslight_steuern)
 {.links-list}
