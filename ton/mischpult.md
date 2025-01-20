@@ -2,7 +2,7 @@
 title: Mischpult
 description: 
 published: true
-date: 2024-01-15T17:58:01.649Z
+date: 2025-01-20T10:14:28.865Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:56.668Z
@@ -19,8 +19,5 @@ Dabei gibt es grundsätzlich zwei Arten von Mischpulten:
 2. Digitalpult
 - [Behringer X32 Compact*unser neues digitalpult*](/ton/mischpult/x32-compact)
 {.links-list}
-- [Yamaha QL11*unser altes digitalpult*](ton/mischpult/yamaha-ql11)
-{.links-list}
-
 
 
