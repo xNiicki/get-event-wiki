@@ -2,7 +2,7 @@
 title: Licht Mischen und Aufbau
 description: 
 published: true
-date: 2025-01-20T08:09:20.322Z
+date: 2025-01-20T08:10:00.724Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-09T06:54:45.794Z
@@ -17,7 +17,7 @@ Licht besteht aus wellen das sichtbare spektrum ist klein das ganze lichtspektru
 
 ![lichtspektrum.jpeg](/licht/lichtspektrum.jpeg)
 
-> Die Lichtsrahlung ist in die sen artikel stark vereinfacht und deswegen mit Rot, Grün und blau dargestelt. 
+> Die Lichtsrahlung ist in diesen artikel stark vereinfacht und deswegen mit Rot, Grün und blau dargestelt. 
 {.is-warning}
 
 ### Wie wir sehen.
