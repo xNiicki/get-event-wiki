@@ -2,7 +2,7 @@
 title: Mischpult Groß
 description: 
 published: true
-date: 2025-01-20T12:55:35.476Z
+date: 2025-01-20T13:02:02.544Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:58.966Z
@@ -29,6 +29,10 @@ Mit den EQ Lizer kann man die Höhen/Mitten/Tiefen einstellen. Hier haben wir f�
 Die Aux knöpfe bestimmen, wie viel Signal durch die Aux Ausgänge geht. Hier gilt auch wieder die Regel je höher der Regler aufgedreht ist, desto mehr signal geht durch.
 ## Pan
 Bei einer stereo anlage ansteuern wieviel sygnal durch die linke/die rechte box geht.
+## Mute
+Wenn ein Kanal gemutet wird komt kein signal durch.
+## PFL
+Wenn der PFL aktiv ist, wird die eingangslautstärke angezeigt, dies erleichtert das einpegeln.
 ## Fader
 Die Fader sind Analog. Das heißt dass keine Motoren dadrunter verbaut sind. Es gibt zu jeden Eingang 1 Fader. Dje Fader bestimmen wie viel Signal durchgehen soll. Je höher der Fader ist, desto Lauter ist die Endlautstärke.
 ![mischpult.jpeg](/ton/mischpult.jpeg)
