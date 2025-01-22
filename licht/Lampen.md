@@ -2,7 +2,7 @@
 title: Lampen
 description: 
 published: true
-date: 2025-01-22T12:48:44.406Z
+date: 2025-01-22T12:55:05.658Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-19T16:38:17.082Z
@@ -27,4 +27,8 @@ Es können auch die gleichen lampen die gleichen adressen haben ,dann können di
 - Down -> Runter wählen
 ## Moving Head (Vega spot 90)
 Die Moving heads haben eine lampe,ein Farbrad,und zwei gobo räder.
-Das besondere an Moving Heads ist das sie ihren lampen kopf um 2 achsen bewegenkönnen 
+Das besondere an Moving Heads ist das sie ihren lampen kopf um 2 achsen bewegenkönnen.
+## KLS
+KLS steht für **k**ompaktes **L**icht**s**ystem
+Unsere KLS hat 4 Lampenköpfe die unabhängig voneinander ausgerichtet werden können.
+Jeder Lampenkopf hat 7 LEDs verbaut, alle LEDs können (RGB)
