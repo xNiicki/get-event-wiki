@@ -2,7 +2,7 @@
 title: lichtpult
 description: 
 published: true
-date: 2025-01-22T12:29:01.361Z
+date: 2025-01-22T12:29:28.221Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:54.347Z
