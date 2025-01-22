@@ -2,7 +2,7 @@
 title: lichtpult
 description: 
 published: true
-date: 2025-01-20T08:04:58.049Z
+date: 2025-01-22T12:29:01.361Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:54.347Z
@@ -21,4 +21,5 @@ Insgesamt ist das Lichtpult ein wichtiger Bestandteil der Veranstaltungstechnik.
 Es hilft den Technikern dabei, die Beleuchtung auf der Bühne genau so zu steuern, dass die Show ein Erfolg wird und das Publikum begeistert.
 # Unser Lichtpult
 ![lichtpult.jpeg](/lichtpult.jpeg)
-Mit dem analogen Mischpult können die fader und aus Daslight gesteuert werden.
+Mit dem analogen Mischpult können die fader und  Daslight gesteuert werden.
+Mit den unteren 20 tasten mit den Zahlen drunter werden die fader oben festgelegt, dabei gilt ist der erste knopf gedrücgt sind es die Fader für die DMX-Channel 1 bis 24, bei knopf 2 die Channel 25 bis 48 und beim dritten knopf die Channel 49 bis 72.
