@@ -2,7 +2,7 @@
 title: Licht Mischen und Aufbau
 description: 
 published: true
-date: 2025-01-20T09:48:24.020Z
+date: 2025-01-22T12:31:08.372Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-09T06:54:45.794Z
