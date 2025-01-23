@@ -2,7 +2,7 @@
 title: Lampen
 description: 
 published: true
-date: 2025-01-23T12:15:05.491Z
+date: 2025-01-23T12:29:19.939Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-19T16:38:17.082Z
@@ -33,4 +33,4 @@ KLS steht für **k**ompaktes **L**icht**s**ystem
 Unsere KLS hat 4 Lampenköpfe die unabhängig voneinander ausgerichtet werden können.
 Jeder Lampenkopf hat 7 LEDs verbaut, alle LEDs können RGB.
 ## Flute (Vega silent PAR 2/3)
-Fluter leuchten flächendekend und bestehen aus meheren LED die alle RGB können.
+Fluter leuchten flächendekend und bestehen aus meheren LED die alle RGB, Weiß, Amber und UV können.
