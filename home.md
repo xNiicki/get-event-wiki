@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-08-28T13:25:02.118Z
+date: 2025-01-23T12:31:30.259Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:41.856Z
@@ -20,6 +20,7 @@ Hier erfährst du z.B.
 - [Ton*Übersichtseite Thema Ton*](/ton)
 - [Licht*Übersicht zum Thema Licht*](/licht)
 - [Aula*Übersicht der Aula*](/aula)
+- [Kabel*Übersicht über fast alle*](/Kabel)
 {.links-list}
 
 
