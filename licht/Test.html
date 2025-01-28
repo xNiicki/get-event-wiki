@@ -1,0 +1,65 @@
+<!--
+title: Untitled Page
+description: 
+published: true
+date: 2025-01-28T09:03:04.737Z
+tags: 
+editor: code
+dateCreated: 2025-01-28T09:03:04.737Z
+-->
+
+<h1>Title</h1>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="" content="width=device-width, initial-scale=1.0">
+<title>Farbsubtraktion</title>
+<style>
+    .color-box {
+        width: 300px;
+        height: 200px;
+        border: 1px solid black;
+    }
+    .slider {
+        width: 100%;
+    }
+</style>
+</head>
+<body>
+
+<div class="color-box" id="colorBox"></div>
+
+<label for="redSlider">Red:</label>
+<input type="range" min="0" max="255" value="0" class="slider" id="redSlider">
+
+<label for="greenSlider">Green:</label>
+<input type="range" min="0" max="255" value="0" class="slider" id="greenSlider">
+
+<label for="blueSlider">Blue:</label>
+<input type="range" min="0" max="255" value="0" class="slider" id="blueSlider">
+
+<script>
+    const colorBox = document.getElementById('colorBox');
+    const cyanSlider = document.getElementById('redSlider');
+    const magentaSlider = document.getElementById('greenSlider');
+    const yellowSlider = document.getElementById('blueSlider');
+
+    function updateColor() {
+        const red = redSlider.value;
+        const green = greenSlider.value;
+        const blue = blueSlider.value;
+
+        colorBox.style.backgroundColor = `rgb(${red}, ${green}, ${blue})`;
+    }
+
+    cyanSlider.addEventListener('input', updateColor);
+    magentaSlider.addEventListener('input', updateColor);
+    yellowSlider.addEventListener('input', updateColor);
+
+    updateColor();
+</script>
+
+</body>
+</html>
