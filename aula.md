@@ -2,7 +2,7 @@
 title: Aula
 description: 
 published: true
-date: 2025-01-22T12:13:51.428Z
+date: 2025-02-03T07:45:48.630Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T09:36:36.068Z
@@ -19,3 +19,5 @@ dateCreated: 2023-10-20T09:36:36.068Z
 {.links-list}
 - [Regie*Aufbau der Regie der Aula*](/aula/regie)
 {.links-list}
+
+![aulaplan_leer.jpeg](/aulaplan_leer.jpeg)
