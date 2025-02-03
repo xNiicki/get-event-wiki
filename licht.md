@@ -2,13 +2,13 @@
 title: Licht
 description: 
 published: true
-date: 2025-01-28T09:03:57.186Z
+date: 2025-02-03T08:08:06.730Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:44.769Z
 ---
 
-# Wilkommen bei Licht
+# Willkommen bei Licht
 Hier findest du alles zu der Abteilung Licht und der Lichttechnik.
 
 - [Licht*Mischen und Aufbau*](/licht/licht_aufbau)
