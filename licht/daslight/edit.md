@@ -2,17 +2,16 @@
 title: Edit
 description: 
 published: true
-date: 2023-12-04T09:48:37.421Z
+date: 2025-02-03T07:58:48.578Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-24T13:51:24.085Z
 ---
 
 # Edit
-Bei Edit werden gruppen erstelt in einer gruppe können szenen erstelt werden ,jede szene kann Lampen steuern.
-Um eine szenen zu Programmieren draufklikken und eine lampe auswählen die regler anpassen je nach belieben.
-Was die regler machen⬇️
-- KLS
-![edit_kls.jpeg](/edit_kls.jpeg)
+Bei Edit werden gruppen erstellt, in einer gruppe können szenen erstelt werden.
+In jeder szene können Lampen-einstelungen eingespeichert werden.
+Um eine szenen zu Programmieren muss diese durch draufklicken ausgewählt werden und die regler der lampen angepast werden.
+## Was die regler machen⬇️
 - Movigheads
 ![edit_movinghead.jpeg](/edit_movinghead.jpeg)
