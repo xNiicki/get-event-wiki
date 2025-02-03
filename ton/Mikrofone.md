@@ -2,7 +2,7 @@
 title: Mikrofone
 description: Tauchspulenmikrofone, Kondensatormikrofone und Richtcharakteristiken
 published: true
-date: 2025-02-03T08:04:49.172Z
+date: 2025-02-03T08:07:14.693Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-15T18:28:47.225Z
@@ -32,7 +32,7 @@ Hohe Rückkopplungsanfälligkeit.
 Gut für Gruppenaufnahmen, Atmosphäre & Umgebungsgeräusche.
 Quasi unbrauchbar für die Bühne.
 ### Niere
-Nimmt vornehmlich von einer Seite auf.
+Nimmt hauptsächlich von einer Seite auf.
 Gut für Bühne.
 Am häufigsten genutzte Richtcharakteristik.
 Gute Rückkopplungsfestigkeit.
