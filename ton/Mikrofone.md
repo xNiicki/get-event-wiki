@@ -2,13 +2,13 @@
 title: Mikrofone
 description: Tauchspulenmikrofone, Kondensatormikrofone und Richtcharakteristiken
 published: true
-date: 2025-01-20T12:20:55.194Z
+date: 2025-02-03T08:04:49.172Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-15T18:28:47.225Z
 ---
 
-# Microfone
+# Mikrofone
 ## Tauchspulenmikrofone
 ![aufbau_eines_tauchspulenmikrofons.png](/ton/aufbau_eines_tauchspulenmikrofons.png)
 Schallwellen versetzen die Membran in schwingung und die Membran die spule.
