@@ -2,14 +2,14 @@
 title: Home
 description: 
 published: true
-date: 2025-01-28T08:38:01.485Z
+date: 2025-02-03T07:59:42.190Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-29T19:22:41.856Z
 ---
 
-# Wilkommen
-Wilkommen auf den Wiki von GET-Event. 
+# Willkommen
+Willkommen auf den Wiki von GET-Event. 
 Hier erfährst du z.B.
 
 - Wie funktioniert Daslight?
