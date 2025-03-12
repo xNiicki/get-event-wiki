@@ -2,7 +2,7 @@
 title: Lichtequipment
 description: 
 published: true
-date: 2025-03-12T12:49:33.980Z
+date: 2025-03-12T12:49:49.007Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-12T12:45:57.477Z
