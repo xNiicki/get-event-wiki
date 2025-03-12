@@ -2,7 +2,7 @@
 title: Boxen
 description: 
 published: true
-date: 2025-03-12T12:11:30.472Z
+date: 2025-03-12T12:13:40.247Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-28T08:46:45.097Z
