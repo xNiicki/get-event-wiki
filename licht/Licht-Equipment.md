@@ -2,7 +2,7 @@
 title: Lichtequipment
 description: 
 published: true
-date: 2025-03-12T12:45:57.477Z
+date: 2025-03-12T12:49:33.980Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-12T12:45:57.477Z
@@ -21,7 +21,10 @@ ca.50 Halogenlampen
 # Steuerelemente
 1 Daslight Interface
 1 MIDI-Pad
-1 Digitalpult
+1 Leuchtkraft DMX-4840
 1 Analogpult
 1 Altes Pult
 1 Dimmerrack
+# Sonstiges
+1 DMX-Splitter
+? Kabel
