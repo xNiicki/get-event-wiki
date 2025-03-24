@@ -2,7 +2,7 @@
 title: Lichtequipment
 description: 
 published: true
-date: 2025-03-12T12:49:49.007Z
+date: 2025-03-24T08:52:28.742Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-12T12:45:57.477Z
@@ -12,10 +12,10 @@ dateCreated: 2025-03-12T12:45:57.477Z
 4 Vega Spot 90
 2 Vega Silent par3
 2 Vega Silent par2
-2 Alte Fluter
-2 KLS
+2 Stage color 24 tri
+2 KLS_2001
+5 giga bar pix 8 UV
 4 UV-Lampen
-5 UV-Bars
 ca.50 Halogenlampen
 1 Verfolger
 # Steuerelemente
